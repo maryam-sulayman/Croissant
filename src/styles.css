@@ -1,0 +1,12 @@
+body {
+  margin-top: 50px;
+  background-color: antiquewhite;
+  text-align: center;
+}
+img {
+  width: 500px;
+}
+.links a {
+  margin: 10px;
+  color: green;
+}
